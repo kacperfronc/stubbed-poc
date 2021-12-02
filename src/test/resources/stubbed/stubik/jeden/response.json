@@ -1,0 +1,12 @@
+{
+  "id": "default",
+  "headers": {
+    "Content-Type": "application/json;version=1",
+    "x-joejana": "${test-valu}"
+  },
+  "body": {
+    "test-field": "${testval}",
+    "joejan": "${coo}",
+    "test-key": "${doe}"
+  }
+}
